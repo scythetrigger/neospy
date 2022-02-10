@@ -4,7 +4,7 @@ setup(
     name = 'neos',
     version = '0.0.0',    
     description = 'A python module to make calls to the NEOS server.',
-    #url='https://github.com/shuds13/pyexample',
+    url = 'https://github.com/scythetrigger/neospy',
     author = 'Nicholas Parham',
     author_email = 'nick-99@att.net',
     license = 'Apache Software License',
