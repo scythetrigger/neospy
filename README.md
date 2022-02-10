@@ -1,2 +1,2 @@
 # neospy
-NEOS python module.
+A Python module to interface with the NEOS optimization servers.
